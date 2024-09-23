@@ -57,6 +57,8 @@
 
 ##### Интерполяция данных
 
+Материалы для работы на семинаре  https://colab.research.google.com/drive/1urQF4j1l9OK-uaqNhFfNqK_zoOh8bZJr?usp=sharing
+
 1) Скачать файлы данных или подобрать свои (https://disk.yandex.ru/d/ADpRgSJX_uJ4qQ )
    - DataSet3_1 – Данные о частоте и потребляемой мощности электрической энергии офисным зданием (регулярный временной ряд)
       - Timestamp - дата в формате мм/дд/гггг чч:мм
