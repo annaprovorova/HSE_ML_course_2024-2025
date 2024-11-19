@@ -250,6 +250,8 @@
 
 ---
 
+**Семинар 11**
+
 ##### Работа с текстовыми данными
 
 Материалы для работы на семинаре [https://colab.research.google.com/drive/1oHAgqjFKxqCpvLi5U5lskynnCiXkU0f3?usp=sharing](https://colab.research.google.com/drive/1KpxWgIhxPkxbjn_4IukpKx_cwrQpazfJ?usp=sharing)
@@ -261,9 +263,8 @@
 
 *Дополнительные баллы*:
 
-1. Провести лемматизацию/стемминг
-2. Используйте TF-IDF
-3. Используйте множественную классификацию
+1. Используйте TF-IDF
+2. Используйте множественную классификацию
 
 
 # Важная информация!
